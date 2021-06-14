@@ -8,15 +8,19 @@ Seru seruan ngoding bareng javascript :checkered_flag:
 
 ## :scroll: Step mengikuti challenge
 
-1. Fork repo ini ya
+1. Fork repo ini ya, lalu clone repo hasil fork
 
 2. Buat branch baru, jangan pake branch main
 
-3. buat folder baru, penamaan folder berdasarkan username kalian.
+3. Pilih folder challenge yang diinginkan
 
-4. Lakukan Pull Request ke branch master dari repo ini
+4. buat folder baru didalamnya, penamaan folder berdasarkan username kalian.
 
-5. jangan lupa :star2: repo ini dan cantumkan username github kalian di bagian kontributor
+5. Jika sudah mengerjakan, push ke repository hasil fork tersebut
+
+6. Lakukan Pull Request ke branch main dari repo ini
+
+7. jangan lupa :star2: repo ini dan cantumkan username github kalian di bagian kontributor
 
 ## :zap: Tutorial Kilat
 
