@@ -8,9 +8,9 @@ Seru seruan ngoding javascript :checkered_flag:
 
 ## :scroll: Step mengikuti challenge
 
-1. Kemudian fork repo ini ya
+1. Fork repo ini ya
 
-2. Buat branch baru, jangan pake branch master
+2. Buat branch baru, jangan pake branch main
 
 3. buat folder baru, penamaan folder berdasarkan username kalian.
 
