@@ -1,6 +1,6 @@
 # Challenge Javascript
 
-Seru seruan ngoding javascript :checkered_flag:
+Seru seruan ngoding bareng javascript :checkered_flag:
 
 ## :pushpin: Syarat mengikut
 
